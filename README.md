@@ -60,6 +60,31 @@ npm run preview
 ```
 
 
+## Build modes or building for different servers
+
+This frontend application can be built for staging or production server.
+
+To build for the staging run:
+```sh
+npm run build -- --mode staging
+```
+
+To build for the production:
+```sh
+npm run build -- --mode production
+```
+or simply:
+```sh
+npm run build
+```
+
+On different servers the app can use different settings (different API URLs, for example).  
+Use the following env files at the repository's root to specify those settings:
+* for staging - `.env.staging`
+* for production - `.env.production`
+* for local development - `.env.development`
+
+
 ## Linting and type checking
 
 Run linting:
